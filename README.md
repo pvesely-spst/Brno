@@ -12,3 +12,5 @@ for (char i=0;i<8;i++)
   }
 }
 ```
+
+[Link na repozitář Aleše Povalače](https://github/alpov/SPST)
